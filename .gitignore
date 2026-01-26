@@ -1,1 +1,22 @@
-.idea/ 
+# IntelliJ / IDEA
+.idea/
+*.iml
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Spring Boot / Java
+target/
+*.class
+*.jar
+*.war
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
