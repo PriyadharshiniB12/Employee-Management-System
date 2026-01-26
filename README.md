@@ -163,7 +163,7 @@ The frontend is structured with reusable components and service files for scalab
 
 
 
-##### Steps for Running the project
+##### Steps to Running the project
 
 Backend
 
@@ -172,20 +172,20 @@ Backend
 2\. Configure MySQL database in `application.properties`
 
 3\. Run the Spring Boot application
+    mvn spring-boot:run
 
 
 
 ###### Frontend
 
 1\. Navigate to the frontend folder
+    cd emps-frontend
 
 2\. Install dependencies:
-
-&nbsp;  ```bash npm install
+    npm install
 
 Start the development server: 
-
-&nbsp;     npm run dev
+    npm run dev
 
 
 
